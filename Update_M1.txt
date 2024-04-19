@@ -1,1 +1,1 @@
-M1=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36=UA
+[FBAN/FB4A;FBAV/216.0.0.38.104;FBBV/141216015;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/T-Mobile.US;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-N5100;FBSV/5.0.1;nullFBCA/armeabi-v7a:armeabi;]
